@@ -1,0 +1,48 @@
+* Montaje
+
+	* Motor
+		* Selecion por potencia o torque
+		* Diseño de la caja de engranajes
+				* cuando el motor gira en un sentido se enrolla
+				* en el otro se despliega.
+		* Soporte
+		* alimentacion
+
+	* Rieles
+		* Diseño de perfil de rieles
+			* No debe raspar la lona
+			* tiene que tener espacio para las dos ruedas
+			* En lo posible no debe quebrar los dedos del pie
+		* Metodo de sujecion de los rieles
+			* Inoxidable
+			* Funciona al corte a a traccion
+ 	
+
+	* Reducciones y sujeciones
+		* Caño que sujeta el final de la lona.
+			* Calculo y  dimensionamiento
+			* Soporte para el carrito.
+		* Carrito de arrastre.
+			* forma.
+			* tipo de ruedas.
+			* es de presentacion
+		* Rodillo de enrollamiento.
+			* diametro
+			* Material
+			* como sujetarlo a la lona
+
+
+
+	* Lona
+		* Seleccion de la lona por caracteristicas
+			* peso
+			* durabilidad
+			* flotabilidad
+			* resistencia a la traccion
+		* Metodo de costura
+			* Refuerzo para evitar el roce
+			* maxima tension que soporta la soldadura
+
+			
+
+
